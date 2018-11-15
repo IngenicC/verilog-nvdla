@@ -1,0 +1,24 @@
+[submodule "resource/nvdla/hw"]
+	path = resource/nvdla/hw
+	url = https://github.com/nvdla/hw.git
+	branch = master
+[submodule "resource/nvdla/sw"]
+	path = resource/nvdla/sw
+	url = https://github.com/nvdla/sw
+	branch = master
+[submodule "resource/nvdla/doc"]
+	path = resource/nvdla/doc
+	url = https://github.com/nvdla/doc
+	branch = master
+[submodule "resource/nvdla/vp"]
+	path = resource/nvdla/vp
+	url = https://github.com/nvdla/vp
+	branch = master
+[submodule "resource/sifive/nvidia-dla-blocks"]
+	path = resource/sifive/nvidia-dla-blocks
+	url = https://github.com/sifive/nvidia-dla-blocks
+	branch = master
+[submodule "resource/OpenDLA"]
+	path = resource/OpenDLA
+	url = https://github.com/OpenDLA/OpenDLA.git
+	branch = master
