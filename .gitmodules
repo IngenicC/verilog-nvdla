@@ -22,3 +22,11 @@
 	path = resource/OpenDLA
 	url = https://github.com/OpenDLA/OpenDLA.git
 	branch = master
+[submodule "resource/Learning-NVDLA-Notes"]
+	path = resource/Learning-NVDLA-Notes
+	url = https://github.com/JunningWu/Learning-NVDLA-Notes.git
+	branch = master
+[submodule "resource/nvdla_compiler"]
+	path = resource/nvdla_compiler
+	url = https://github.com/icubecorp/nvdla_compiler
+	branch = master
